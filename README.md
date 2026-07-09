@@ -185,11 +185,11 @@ of the generic machinery in step 6.
 | File | Role |
 |------|------|
 | `Theorem6.lean` | Where the pattern is first spotted: `cross_invariant`, `key_identity`. |
-| `FBK-application/CertifyingCore/TransitionSystem.lean` | The framework: `InductiveInvariant.reachable`, `safety_via_invariant`, `InductiveInvariant.and`. |
-| `FBK-application/CertifyingCore/MutexExample.lean` | Textbook payoff: `mutualExclusion_reachable`. |
-| `FBK-application/CertifyingCore/TinyTS.lean` | Conserved-quantity twin: `cross_conserved`. |
-| `FBK-application/CertifyingCore/CICLink.lean` | The punchline: `Inductive.reachable'` = `Reachable.rec`. |
-| `FBK-application/CertifyingCore/CrossInvariant.lean` | The morphism: `cross_is_inductiveInvariant` → `cross_holds_of_reachable` → `key_identity_via_reachable`. |
+| `CertifyingCore/TransitionSystem.lean` | The framework: `InductiveInvariant.reachable`, `safety_via_invariant`, `InductiveInvariant.and`. |
+| `CertifyingCore/MutexExample.lean` | Textbook payoff: `mutualExclusion_reachable`. |
+| `CertifyingCore/TinyTS.lean` | Conserved-quantity twin: `cross_conserved`. |
+| `CertifyingCore/CICLink.lean` | The punchline: `Inductive.reachable'` = `Reachable.rec`. |
+| `CertifyingCore/CrossInvariant.lean` | The morphism: `cross_is_inductiveInvariant` → `cross_holds_of_reachable` → `key_identity_via_reachable`. |
 
 ---
 
