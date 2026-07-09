@@ -103,7 +103,7 @@ Same pattern, familiar example.
 
 ## 4. The conserved-quantity twin
 
-[`FBK-application/CertifyingCore/TinyTS.lean`](https://github.com/attilavjda/inductive-invariant-core/blob/main/CertifyingCore/TinyTS.lean)
+[`CertifyingCore/TinyTS.lean`](https://github.com/attilavjda/inductive-invariant-core/blob/main/CertifyingCore/TinyTS.lean)
 
 The same pattern with a *deterministic* step (a function, not a relation),
 applied to a ladder recurrence `X_{i+1} = c_i · X_i − X_{i-1}`.
