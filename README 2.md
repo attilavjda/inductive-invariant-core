@@ -1,4 +1,8 @@
-
+◇◻◇◻◇◻◇◻◇◻◇◻◇◻◇◻◇◻◇◻◇◻◇◻◇◻◇◻◇◻◇◻◇◻◇◻◇◻◇◻◇◻◇◻◇◻◇◻◇◻◇◻◇◻◇◻◇◻◇◻◇◻◇◻◇◻◇◻◇◻◇◻◇◻  
+*reference: copy pasted and edited from collaboration with computer agents  
+not verified, non-machine checked, and maybe depends on basic axioms  
+◇◻◇◻◇◻◇◻◇◻◇◻◇◻◇◻◇◻◇◻◇◻◇◻◇◻◇◻◇◻◇◻◇◻◇◻◇◻◇◻◇◻◇◻◇◻◇◻◇◻◇◻◇◻◇◻◇◻◇◻◇◻◇◻◇◻◇◻◇◻◇◻◇◻  
+>  
 	(CICLink + TinyTS + MutexExample + the generic TransitionSystem)
 	
 		
@@ -37,7 +41,7 @@
 		    
 	    - CICLink: 
 	    
-		    why it's rock-solid 
+		    why it's maybe rock-solid 
 			    — soundness is Lean's inductive recursor.
 
 
